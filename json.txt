@@ -1,0 +1,21 @@
+{
+            "username":"krishna",
+            "loan_type":"car_Loan",
+            "loan_Amount":200000,
+            "date":"17/12/1995",
+            "rate_of_interest":1,
+            "duration_of_loan":12
+        }
+
+{
+            "username":"ramakrishna",
+            "password":"ramakrishna",
+            "address":"8/121,p.k. ramaya street,jammalamadugu",
+            "state":"tn",
+            "country":"India",
+            "emailAddress":"chimmaniramakrishna25@gmail.com",
+            "pan":"CWEPR7923F",
+            "contactNo":9440921058,
+            "DOB":"17/12/1995",
+            "accountType":"savings"
+}
